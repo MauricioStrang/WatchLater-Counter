@@ -5,7 +5,7 @@ import { loadGapiInsideDOM, gapi } from 'gapi-script';
   providedIn: 'root'
 })
 export class YoutubeAuthService {
-  private clientId = '525873997355-rei5955q32ppparaf1a48e7pihpc4dqn.apps.googleusercontent.com';
+  private clientId = '432953629020-6654v485km5i0vkrdjma5ph3tdadg2d8.apps.googleusercontent.com';
   private scope = 'https://www.googleapis.com/auth/youtube.readonly';
 
   constructor() {
